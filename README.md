@@ -1,2 +1,1 @@
-# Forms VStudio IE11 Plugin Standalone WPF Application 
-# - Oracle Forms Start -
+# Oracle Forms Standalone Start with WPF Webbrowser Application 
