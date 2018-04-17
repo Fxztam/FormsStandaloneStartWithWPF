@@ -1,1 +1,1 @@
-# Oracle Forms Standalone Start with WPF Webbrowser Application 
+# Oracle Forms Standalone Start with WPF Webbrowser
