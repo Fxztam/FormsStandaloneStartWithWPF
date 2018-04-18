@@ -3,7 +3,7 @@
 Sometimes a startup with fixed parameters or a Windows User Credential check is required before calling Oracle Forms. This could be done with a WPF Application to hide information and handle safer routines for the Oracle Forms start. You can also handle the ON-CLOSE event in this WPF application to back up application logoff.
 
 >**Attention:**
->The IE11 plugin Java Web component is not forward-looking technology, but it can be helpful for rapid prototyping and deployments on Windows 10 clients.
+>The IE11 WPF Webbrowser component *incl. Java plugin* is not forward-looking technology, but it can be helpful for rapid prototyping and deployments on Windows 10 clients.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ There is the description for project building of the application.
 
 ### Installing
 
-- Check & install/upgrade the latest IE11 [Java 1.8 Plugin](https://www.java.com/verify)
+- Check & install/upgrade the latest IE11 [Java 1.8 plugin](https://www.java.com/verify)
 - Downloading the project ZIP file and unzip it
 - In MS Visual Studio *Open Project* and pick up the project file *WpfAppIExx.csproj*
 - Build and run it
