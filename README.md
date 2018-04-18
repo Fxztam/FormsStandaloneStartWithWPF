@@ -11,6 +11,7 @@ There is the description for project building of the application.
 
 ### Prerequisites
 
+- Windows 10
 - Latest Java 1.8 plugin on IE11
 - Micrososft Visusal Studio 2017 
 - Micrososft Visusal Studio 2015 
