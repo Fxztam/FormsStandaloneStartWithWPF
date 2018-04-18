@@ -12,14 +12,14 @@ There is the description for project building of the application.
 ### Prerequisites
 
 - Windows 10
-- Latest Java 1.8 plugin on IE11
+- Latest IE11 Java 1.8 plugin
 - Micrososft Visusal Studio 2017 
 - Micrososft Visusal Studio 2015 
 - Using the 'Materialized Forms' Demo from the online forms Server
 
 ### Installing
 
-- Check & install/upgrade the latest IE11 [Java 1.8 Plugin] (https://www.java.com/verify)
+- Check & install/upgrade the latest IE11 [Java 1.8 Plugin](https://www.java.com/verify)
 - Downloading the project ZIP file and unzip it
 - In MS Visual Studio *Open Project* and pick up the project file *WpfAppIExx.csproj*
 - Build and run it
