@@ -20,7 +20,7 @@ There is the description for project building of the application.
 ### Installing
 
 - Install the latest IE11 
-  - Check & upgrade the Java IE11 plugin [Java Plugin 1.8](https://www.java.com/verify)
+  - Check & upgrade the latest Java IE11 plugin [Java Plugin 1.8](https://www.java.com/verify)
 - Downloading the project ZIP file and unzip it
 - In MS Visual Studio *Open Project* and pick up the project file *WpfAppIExx.csproj*
 - Build and run it
