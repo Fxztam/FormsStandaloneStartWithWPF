@@ -15,7 +15,7 @@ There is the description for project building of the application.
 - Latest IE11 Java 1.8 plugin
 - Micrososft Visusal Studio 2017 
 - Micrososft Visusal Studio 2015 
-- Using the 'Materialized Forms' Demo from the online forms Server
+- Using the 'Materialized Forms' demo from the online Forms Server
 
 ### Installing
 
@@ -24,11 +24,11 @@ There is the description for project building of the application.
 - In MS Visual Studio *Open Project* and pick up the project file *WpfAppIExx.csproj*
 - Build and run it
 - Start in *project\bin\Debug\WpfAppIExx.exe*
-- Accept the Forms Server inputs and start the Demo.
+- Accept the Forms Server inputs and start the demo.
 
 ## Running the tests
 
-The WPF application embeds the *Materialized Forms Demo* (Demo0017) from Oracle Forms Demo server: https://forms-demo.com/plsql/cd_forms12demo?sg=0&anw=1 
+The WPF application embeds the *Materialized Forms Demo* (Demo0017) from Oracle Forms Demo Server: https://forms-demo.com/plsql/cd_forms12demo?sg=0&anw=1 
 
 
 <img src="http://www.fmatz.com/FormsWPFstart3.gif"/>
