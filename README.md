@@ -21,15 +21,16 @@ There is the description for project building of the application.
 - Install the latest IE11 
   - Check & upgrade the Java IE11 plugin [Java Plugin 1.8](https://www.java.com/verify)
 - Downloading the project ZIP file and unzip it
-- In MS Visual Studio <Open Project> and pick the project file *WpfAppIExx.csproj*
+- In MS Visual Studio *Open Project* and pick up the project file *WpfAppIExx.csproj*
 - Build and run it
 - Start in *project\bin\Debug\WpfAppIExx.exe*
 - Accept the Forms Server inputs and start the Demo.
 
 ## Running the tests
 
-The WPF application embeds the *Materialized Forms Demo* (Demo0017) from Oracle Forms Demo server: https://forms-demo.com/plsql/cd_forms12demo?sg=0&anw=1 .
+The WPF application embeds the *Materialized Forms Demo* (Demo0017) from Oracle Forms Demo server: https://forms-demo.com/plsql/cd_forms12demo?sg=0&anw=1 
 
-<img src="http://www.fmatz.com/FormsWPF2.gif"/>
+
+<img src="http://www.fmatz.com/FormsWPFstart3.gif"/>
 
 .
